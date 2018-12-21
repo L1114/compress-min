@@ -1,0 +1,22 @@
+{
+  "name": "compress-min",
+  "version": "1.0.0",
+  "description": "supports image compression libraries in base64 and blob formats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L1114/compress-min.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "L1114",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L1114/compress-min/issues"
+  },
+  "homepage": "https://github.com/L1114/compress-min#readme"
+}
