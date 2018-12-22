@@ -1,6 +1,6 @@
 {
   "name": "compress-min",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "supports image compression libraries in base64 and blob formats",
   "main": "index.js",
   "scripts": {
